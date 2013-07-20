@@ -1,0 +1,1 @@
+There is no guarantee that these libraries will completely work. These were coded for my own use, not yours. Still, I will try my best to make this as independant as I can.
