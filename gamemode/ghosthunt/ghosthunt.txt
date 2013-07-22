@@ -1,0 +1,14 @@
+Gamemode
+{
+	"base"		"base"
+	"title"		"Ghosthunt"
+	"maps"		"^gm_ghosthunt"
+	menusystem	"3"
+	workshopid	"--"
+
+	"settings"
+	{
+
+	}
+
+}
